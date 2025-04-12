@@ -1,5 +1,8 @@
 # 💫 About Me:
-✨ Creating bugs since 2022<br>📚 Currently learning Linux and Windows systems, scripting automation, and low-level programming.  <br>🎯 Goals: Build a high-performance PC after graduation, enhance my scripting skills, and develop efficient tools for IT professionals.  <br>🎲 Fun fact: I dual-boot Windows and Linux but still try to make Linux run Windows apps anyway.  
+✨ Creating bugs since 2022<br>
+📚 Currently learning Linux and Windows systems, scripting automation, and low-level programming.  <br>
+🎯 Goals: Enhance my scripting skills, and develop efficient tools for Basic Users and IT professionals.  <br>
+🎲 Fun fact: I dual-boot Windows and Linux but still try to make Linux run Windows apps anyway.  
 
 
 ## 🌐 Socials:
